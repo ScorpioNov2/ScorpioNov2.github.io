@@ -1,17 +1,16 @@
-# 👋 Привет! меня зовут Зыонг
+# 👋 Привет! Меня зовут Зыонг
 
-**Крестьянин** · **Разработчик** · **Создатель**  
-📍 [Город, Страна] · 📧 [daomanhduong2112005@gmail.com](mailto:daomanhduong2112005@gmail.com)
-🌐 [ScorpioNov2.github.io](https://scorpionov2.github.io/)
+👨🏻‍🌾 **Настоящий крестьянин** · **Студент** · **Начинающий разработчик** · **Любитель ИИ**  
+📍 Санкт-Петербург, Россия  
+🌐 [ScorpioNov2.github.io](https://scorpionov2.github.io/) · 📧 [daomanhduong2112005@gmail.com](mailto:daomanhduong2112005@gmail.com)  
 
 ---
 
 ## 🧠 О себе
 
-Я увлечён созданием [опишите сферу, например: удобных и красивых веб-приложений, мобильных интерфейсов, креативных решений для бизнеса].  
-Мне нравится превращать сложные задачи в простые, понятные и элегантные решения.
+Я увлечён созданием веб-приложений, изучением искусственного интеллекта и алгоритмов. Мне нравится превращать сложные задачи в простые и элегантные решения.
 
-Сейчас работаю над **[название проекта]** и изучаю **[технология/навык]**.  
+Сейчас работаю над **сборником лабораторных работ по Python** и изучаю **структуры данных, русский язык и командную разработку**.  
 Открыт к интересным предложениям и сотрудничеству.
 
 ---
@@ -31,50 +30,32 @@
 
 ## 📂 Избранные проекты
 
-### [Название проекта 1](https://github.com/yourusername/project1)
-**Описание:** Кратко о проекте: что делает, какие технологии, ваша роль.  
-🛠️ **Стек:** React, Node.js, MongoDB  
-[🔗 Демо](https://demo-link.com) · [📁 Репозиторий](https://github.com/yourusername/project1)
+### [Лабораторные работы 1-го семестра](https://github.com/ScorpioNov2/PythonLabs/tree/main/PythonLabs_year_1th/1_semester)
+**Описание:** Сборник из 10 лабораторных работ по Python: от простых задач до клиент-серверного приложения и CRUD с базой данных.  
+🛠️ **Стек:** Python, SQLite, Jinja2, Cython  
+[🔗 Перейти](https://github.com/ScorpioNov2/PythonLabs/tree/main/PythonLabs_year_1th/1_semester)
 
-### [Название проекта 2](https://github.com/yourusername/project2)
-**Описание:** Ещё один интересный проект, над которым вы работали.  
-🛠️ **Стек:** Python, Django, PostgreSQL  
-[🔗 Демо](https://demo-link.com) · [📁 Репозиторий](https://github.com/yourusername/project2)
+### [Лабораторные работы 2-го семестра](https://github.com/ScorpioNov2/PythonLabs/tree/main/PythonLabs_year_1th/2_semester)
+**Описание:** Продвинутые темы: веб-скрапинг, Flask, Django, основы машинного обучения.  
+🛠️ **Стек:** Python, Flask, Django, BeautifulSoup, Pandas  
+[🔗 Перейти](https://github.com/ScorpioNov2/PythonLabs/tree/main/PythonLabs_year_1th/2_semester)
 
-### [Название проекта 3](https://github.com/yourusername/project3)
-**Описание:** Мобильное приложение или open‑source вклад.  
-🛠️ **Стек:** Flutter, Firebase  
-[🔗 Демо](https://demo-link.com) · [📁 Репозиторий](https://github.com/yourusername/project3)
-
-> 👉 Больше проектов можно найти в [моём портфолио](https://yourwebsite.com/portfolio) или на [GitHub](https://github.com/yourusername).
+> 👉 Больше проектов можно найти в [моём портфолио](https://scorpionov2.github.io/) или на [GitHub](https://github.com/scorpionov2).
 
 ---
 
 ## 📈 Статистика GitHub
 
-![Статистика](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default&locale=ru)
-![Языки](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&locale=ru)
+![Статистика](https://github-readme-stats.vercel.app/api?username=ScorpioNov2&show_icons=true&theme=default&locale=ru)
+![Языки](https://github-readme-stats.vercel.app/api/top-langs/?username=ScorpioNov2&layout=compact&locale=ru)
 
 ---
 
 ## 📬 Свяжитесь со мной
 
-Я всегда рад новым знакомствам и интересным проектам. Пишите!
-
-- **Email:** [email@example.com](mailto:email@example.com)
-- **Telegram:** [@yourhandle](https://t.me/yourhandle)
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- **Twitter:** [@yourhandle](https://twitter.com/yourhandle)
-
----
-
-## ✍️ Последние записи в блоге / новости
-
-<!-- BLOG-POST-LIST:START -->
-- [Название статьи 1](ссылка) – Краткое описание
-- [Название статьи 2](ссылка) – Краткое описание
-- [Название статьи 3](ссылка) – Краткое описание
-<!-- BLOG-POST-LIST:END -->
+- **Email:** [daomanhduong2112005@gmail.com](mailto:daomanhduong2112005@gmail.com)
+- **GitHub:** [github.com/ScorpioNov2](https://github.com/ScorpioNov2)
+- **Telegram:** [@manhduong0211](https://t.me/manhduong0211)
 
 ---
 
