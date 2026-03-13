@@ -13,8 +13,9 @@ workflows:
             image: docker.io/library/python:3.13-slim
             script:
               - python -m pip install --upgrade pip
+              - cd ./source
               - "if [ -f requirements.txt ]; then pip install -r requirements.txt; fi"
-              - cd ./source && mkdocs build -d ../docs
+              - mkdocs build -d ../docs
               - echo "Сайт собран в папке ../docs"
               - ls -la ../docs
 
