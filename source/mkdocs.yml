@@ -39,6 +39,9 @@ nav:
   - Repositories:
     - Перый семестр: lab_idx_1_sem.md
     - Второй семестр: lab_idx_2_sem.md
+  - Google Colabs:
+      - lab 4: https://colab.research.google.com/drive/1EtjfkDiaWDE4n7eFVSX3ZXFE3ufvagzs?usp=drive_link
+      - Lab 5: https://colab.research.google.com/drive/1kwBelHG6jJ3KmbqBW5K54vPEDlIF87Kq?usp=drive_link
   - О сайте:
     - Кодекс поведения: about/code_of_conduct.md
     - Contributing: about/contributing.md
