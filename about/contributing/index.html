@@ -1,0 +1,378 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+        <title>Contributing - MkDocs</title>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        
+        <link rel="canonical" href="https://www.mkdocs.org/about/contributing/">
+        <meta name="author" content="MkDocs Team">
+
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+            <link rel="stylesheet" href="../../assets/css/darcula-highlight.min.css">
+
+        <link rel="stylesheet" href="../../assets/css/bootstrap.min.css">
+        <link rel="stylesheet" href="../../assets/css/dracula-ui.min.css">
+        <link rel="stylesheet" href="../../assets/css/mkdocs.min.css">
+            <link href="../../css/extra.css" rel="stylesheet">
+
+        
+            <link  rel="icon" type="image/x-icon" href="../../assets/favicon.ico">
+        
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/highlight.min.js"></script>
+                <script>hljs.initHighlightingOnLoad();</script>
+
+</head>
+
+<body class="drac-bg-black-secondary drac-text-grey-ternary drac-text drac-scrollbar-purple">
+
+    <main class="d-flex">
+
+        <!-- block sidebar -->
+            <nav id="sidebar" class="sidebar drac-bg-black">
+    <div class="custom-menu">
+        <button type="button" id="sidebarCollapse" class="btn btn-primary">
+            <i class="fa fa-bars"></i>
+            <span class="sr-only">Menu</span>
+        </button>
+    </div>
+
+    <div class="p-4">
+        
+            <img class="logo" src="../../assets/img/dracula.png" height="150px">
+        
+
+        <div class="drac-text-center">
+            
+                <span class="drac-text drac-line-height drac-text-white">MkDocs</span>
+            
+        </div>
+
+        <div class="drac-box flex-column">
+            <ul class="dot-ul">
+                <li><div class="dot-li drac-bg-cyan"></div></li>
+                <li><div class="dot-li drac-bg-green"></div></li>
+                <li><div class="dot-li drac-bg-orange"></div></li>
+                <li><div class="dot-li drac-bg-pink"></div></li>
+                <li><div class="dot-li drac-bg-purple"></div></li>
+                <li><div class="dot-li drac-bg-red"></div></li>
+                <li><div class="dot-li drac-bg-yellow"></div></li>
+            </ul>
+        </div>
+
+        <hr class="drac-divider" />
+
+        <!-- block menu -->
+        <ul class="mb-5 drac-list drac-list-none">
+            
+            <li class="drac-box">
+                <a href="../.."
+                    class="
+                    drac-anchor d-inline-flex align-items-center border-0 drac-text-purple--hover">
+                    Home
+                </a>
+            </li>
+            <li class="drac-box">
+                <a href="../../portfolio/"
+                    class="
+                    drac-anchor d-inline-flex align-items-center border-0 drac-text-purple--hover">
+                    Portfolio
+                </a>
+            </li>
+            <li class="drac-box">
+                <a href="../.."
+                    class="
+                    drac-anchor btn-toggle d-inline-flex align-items-center border-0 drac-text-purple--hover collapsed"
+                    data-bs-toggle="collapse" data-bs-target="#repositories-collapse" aria-expanded="false">
+                    Repositories
+                </a>
+                <div class="collapse" id="repositories-collapse">
+                    <ul class="mb-5 drac-list drac-list-none">
+                            
+    <li class="drac-box-ternary">
+        <a href="../../lab_idx_1_sem/"
+            class="
+            drac-anchor d-inline-flex align-items-center border-0 drac-text-purple--hover">
+            Перый семестр
+        </a>
+    </li>
+                            
+    <li class="drac-box-ternary">
+        <a href="../../lab_idx_2_sem/"
+            class="
+            drac-anchor d-inline-flex align-items-center border-0 drac-text-purple--hover">
+            Второй семестр
+        </a>
+    </li>
+                    </ul>
+                </div>
+            </li>
+            <li class="drac-box">
+                <a href="../.."
+                    class="
+                    drac-anchor btn-toggle d-inline-flex align-items-center border-0 drac-text-purple--hover collapsed"
+                    data-bs-toggle="collapse" data-bs-target="#google-colabs-collapse" aria-expanded="false">
+                    Google Colabs
+                </a>
+                <div class="collapse" id="google-colabs-collapse">
+                    <ul class="mb-5 drac-list drac-list-none">
+                            
+    <li class="drac-box-ternary">
+        <a href="https://colab.research.google.com/drive/1EtjfkDiaWDE4n7eFVSX3ZXFE3ufvagzs?usp=drive_link"
+            class="
+            drac-anchor d-inline-flex align-items-center border-0 drac-text-purple--hover">
+            lab 4 (Credit default)
+        </a>
+    </li>
+                            
+    <li class="drac-box-ternary">
+        <a href="https://colab.research.google.com/drive/1kwBelHG6jJ3KmbqBW5K54vPEDlIF87Kq?usp=drive_link"
+            class="
+            drac-anchor d-inline-flex align-items-center border-0 drac-text-purple--hover">
+            Lab 5 (House price)
+        </a>
+    </li>
+                            
+    <li class="drac-box-ternary">
+        <a href="https://colab.research.google.com/drive/1Gu6JGUh8IBg2AnTpRc9PeFiW4q05YKtR?usp=sharing"
+            class="
+            drac-anchor d-inline-flex align-items-center border-0 drac-text-purple--hover">
+            Lab 6 (Titanic)
+        </a>
+    </li>
+                            
+    <li class="drac-box-ternary">
+        <a href="https://colab.research.google.com/drive/1f2pfFBUi4JXaEm-QWcPCDTMNg6Le4Efu?usp=sharing"
+            class="
+            drac-anchor d-inline-flex align-items-center border-0 drac-text-purple--hover">
+            Lab 7 (Text analysis)
+        </a>
+    </li>
+                            
+    <li class="drac-box-ternary">
+        <a href="https://colab.research.google.com/drive/1t0KdoJIn-hXCFmMj-lPRFMEXJiFDiuJx?usp=sharing"
+            class="
+            drac-anchor d-inline-flex align-items-center border-0 drac-text-purple--hover">
+            Lab 8 (Web scraping)
+        </a>
+    </li>
+                    </ul>
+                </div>
+            </li>
+            <li class="drac-box">
+                <a href="../.."
+                    class=" active 
+                    drac-anchor btn-toggle d-inline-flex align-items-center border-0 drac-text-purple--hover collapsed"
+                    data-bs-toggle="collapse" data-bs-target="#о-сайте-collapse" aria-expanded="false">
+                    О сайте
+                </a>
+                <div class="collapse" id="о-сайте-collapse">
+                    <ul class="mb-5 drac-list drac-list-none">
+                            
+    <li class="drac-box-ternary">
+        <a href="../code_of_conduct/"
+            class="
+            drac-anchor d-inline-flex align-items-center border-0 drac-text-purple--hover">
+            Кодекс поведения
+        </a>
+    </li>
+                            
+    <li class="drac-box-ternary">
+        <a href="./"
+            class=" active 
+            drac-anchor d-inline-flex align-items-center border-0 drac-text-purple--hover">
+            Contributing
+        </a>
+    </li>
+                            
+    <li class="drac-box-ternary">
+        <a href="../license/"
+            class="
+            drac-anchor d-inline-flex align-items-center border-0 drac-text-purple--hover">
+            License
+        </a>
+    </li>
+                    </ul>
+                </div>
+            </li>
+        </ul>
+        <!-- endblock -->
+    </div>
+</nav>
+        <!-- endblock -->
+
+        <nav class="divider drac-bg-purple-cyan"></nav>
+
+        <div class="content">
+            <!-- block header -->
+                <header>
+    <nav class="navbar navbar-expand-xl drac-bg-purple">
+        <div class="container-fluid">
+            
+            <button class="navbar-toggler w-100 text-center" type="button" data-bs-toggle="collapse" data-bs-target="#navbarsMenu"
+                aria-controls="navbarsMenu" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="collapse navbar-collapse flex-column ml-auto" id="navbarsMenu">
+                <ul class="navbar-nav text-md-center">
+
+                    <!-- block preview -->
+                    <li class="nav-item">
+                            
+        <div class="container">
+            <div class="row row-preview">
+                <div class="col">
+                    <a href="../code_of_conduct/"
+                        class="btn-preview drac-btn drac-btn-outline drac-text-white drac-text-cyan-green--hover">
+                        <i class="fa fa-arrow-left"></i> Previous
+                    </a>
+                </div>
+                <div class="col">
+                    <a href="../license/"
+                        class="btn-preview drac-btn drac-btn-outline drac-text-white drac-text-cyan-green--hover" style="padding-left: 3%;">
+                        Next <i class="fa fa-arrow-right"></i>
+                    </a>
+                </div>
+            </div>
+        </div>
+                    </li>
+                    <!--  endblock -->
+
+                    <!-- block search -->
+                    <li class="nav-item"><div role="search" class="search-box">
+	<form id="rtd-search-form" class="wy-form" action="../../search.html" method="get">
+		<input type="text" name="q" class="drac-input drac-input-search drac-input-white drac-text-white drac-bg-black-secondary"
+		placeholder="Search docs" title="Type search term here" />
+	</form>
+</div>
+                    </li>
+                    <!--  endblock -->
+
+                    <!-- block source -->
+                    <li class="nav-item">
+                        
+                            
+                        
+                    </li>
+                    <!--  endblock -->
+
+                </ul>
+            </div>
+
+        </div>
+    </nav>
+</header>
+            <!-- endblock -->
+
+            <!-- block content -->
+                <section class="p-md-5 section-content">
+    <article>
+        <p><h1 id="_1">Руководство по внесению вклада</h1>
+<p>Благодарим за интерес к проекту! Мы рады любым участиям: от сообщений об ошибках до предложений новых функций и pull request'ов. Пожалуйста, уделите время прочтению этого руководства — оно поможет сделать процесс вклада эффективным для всех.</p>
+<h2 id="_2">Содержание</h2>
+<ul>
+<li><a href="#кодекс-поведения">Кодекс поведения</a></li>
+<li><a href="#как-сообщить-об-ошибке">Как сообщить об ошибке</a></li>
+<li><a href="#как-предложить-улучшение">Как предложить улучшение</a></li>
+<li><a href="#процесс-разработки">Процесс разработки</a></li>
+<li><a href="#стиль-кода">Стиль кода</a></li>
+<li><a href="#настройка-окружения">Настройка окружения</a></li>
+<li><a href="#отправка-изменений">Отправка изменений</a></li>
+<li><a href="#полезные-ссылки">Полезные ссылки</a></li>
+</ul>
+<hr />
+<h2 id="_3">Кодекс поведения</h2>
+<p>Этот проект придерживается <a href="CODE_OF_CONDUCT.md">Кодекса поведения участника</a>. Участвуя в проекте, вы обязуетесь соблюдать его. Сообщайте о неприемлемом поведении на <a href="mailto:email@example.com">email@example.com</a>.</p>
+<hr />
+<h2 id="_4">Как сообщить об ошибке</h2>
+<p>Перед созданием issue убедитесь, что подобная проблема ещё не была зарегистрирована. Используйте поиск по issues.</p>
+<p><strong>При создании баг-репорта обязательно укажите:</strong>
+- Краткое и понятное название.
+- Подробное описание: что случилось, что ожидалось.
+- Шаги для воспроизведения.
+- Скриншоты или логи, если применимо.
+- Информацию о среде (ОС, версия браузера/Node.js и т.п.).</p>
+<hr />
+<h2 id="_5">Как предложить улучшение</h2>
+<p>Идеи по улучшению приветствуются! Создайте issue с меткой <code>enhancement</code> и опишите:
+- Какую проблему решает ваше предложение.
+- Как именно вы видите реализацию (можно приложить наброски, примеры кода).
+- Почему это будет полезно для проекта.</p>
+<hr />
+<h2 id="_6">Процесс разработки</h2>
+<ol>
+<li>Сделайте <strong>fork</strong> репозитория.</li>
+<li>Создайте ветку для своей работы (<code>git checkout -b feature/amazing-feature</code>).</li>
+<li>Вносите изменения, следуя <a href="#стиль-кода">стилю кода</a>.</li>
+<li>Добавьте или обновите тесты, если необходимо.</li>
+<li>Убедитесь, что все тесты проходят (<code>npm test</code> или аналогично).</li>
+<li>Зафиксируйте изменения с понятным сообщением коммита.</li>
+<li>Отправьте ветку в свой fork (<code>git push origin feature/amazing-feature</code>).</li>
+<li>Откройте pull request в основной репозиторий.</li>
+</ol>
+<hr />
+<h2 id="_7">Стиль кода</h2>
+<ul>
+<li>Используйте отступы в 2 пробела (или согласно настройкам проекта).</li>
+<li>Старайтесь писать самодокументируемый код и добавлять комментарии там, где это необходимо.</li>
+<li>Следуйте существующим паттернам проекта.</li>
+<li>Запускайте линтер перед коммитом: <code>npm run lint</code>.</li>
+</ul>
+<hr />
+<h2 id="_8">Настройка окружения</h2>
+<ol>
+<li>Клонируйте форкнутый репозиторий.</li>
+<li>Установите зависимости: <code>npm install</code> (или другой менеджер).</li>
+<li>Создайте ветку для изменений.</li>
+<li>Запустите проект в режиме разработки: <code>npm run dev</code>.</li>
+<li>Проверьте, что всё работает.</li>
+</ol>
+<p>Подробнее в <a href="README.md">README</a>.</p>
+<hr />
+<h2 id="_9">Отправка изменений</h2>
+<ul>
+<li>Заголовок pull request должен быть кратким и информативным.</li>
+<li>В описании укажите, какие изменения вносите и зачем.</li>
+<li>Ссылайтесь на связанные issues (например, <code>Closes #123</code>).</li>
+<li>Убедитесь, что CI проходит успешно.</li>
+<li>Дождитесь ревью — возможно, потребуются доработки.</li>
+</ul>
+<hr />
+<h2 id="_10">Полезные ссылки</h2>
+<ul>
+<li><a href="ссылка">Документация проекта</a></li>
+<li><a href="https://github.com/ваш-username/название-проекта/issues">Список задач</a></li>
+<li><a href="ссылка">Чат / Telegram / Slack</a></li>
+</ul>
+<p>Спасибо, что хотите помочь проекту! 🚀</p></p>
+    </article>
+</section>
+            <!-- endblock -->
+
+            <!-- block footer -->
+                <footer>
+    <div class="d-flex flex-sm-row justify-content-between py-2 border-top drac-text-black drac-bg-cyan-green">
+        <a href="https://github.com/dracula/mkdocs" target="_blank" style="padding-left: 1%;"
+            class="footer-text drac-anchor drac-text-black drac-text-purple--hover">
+            Made with Dracula Theme for MkDocs
+        </a>
+    </div>
+</footer>
+            <!-- endblock -->
+        </div>
+
+    </main>
+
+        <script>var base_url = '../..';</script>
+        <script src="../../assets/js/jquery-3.3.1.slim.min.js"></script>
+        <script src="../../assets/js/bootstrap.bundle.min.js"></script>
+        <script src="../../assets/js/mkdocs.js"></script>
+			<script src="../../search/main.js" defer></script>
+
+</body>
+
+</html>
