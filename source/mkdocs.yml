@@ -40,8 +40,11 @@ nav:
     - Перый семестр: lab_idx_1_sem.md
     - Второй семестр: lab_idx_2_sem.md
   - Google Colabs:
-      - lab 4: https://colab.research.google.com/drive/1EtjfkDiaWDE4n7eFVSX3ZXFE3ufvagzs?usp=drive_link
-      - Lab 5: https://colab.research.google.com/drive/1kwBelHG6jJ3KmbqBW5K54vPEDlIF87Kq?usp=drive_link
+      - lab 4 (Credit default): https://colab.research.google.com/drive/1EtjfkDiaWDE4n7eFVSX3ZXFE3ufvagzs?usp=drive_link
+      - Lab 5 (House price): https://colab.research.google.com/drive/1kwBelHG6jJ3KmbqBW5K54vPEDlIF87Kq?usp=drive_link
+      - Lab 6 (Titanic): https://colab.research.google.com/drive/1Gu6JGUh8IBg2AnTpRc9PeFiW4q05YKtR?usp=sharing
+      - Lab 7 (Text analysis): https://colab.research.google.com/drive/1f2pfFBUi4JXaEm-QWcPCDTMNg6Le4Efu?usp=sharing
+      - Lab 8 (Web scraping): https://colab.research.google.com/drive/1t0KdoJIn-hXCFmMj-lPRFMEXJiFDiuJx?usp=sharing
   - О сайте:
     - Кодекс поведения: about/code_of_conduct.md
     - Contributing: about/contributing.md
